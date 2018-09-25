@@ -1,4 +1,4 @@
-# my-vue-app
+# vue-marker-app
 
 ## Project setup
 ```
